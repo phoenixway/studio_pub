@@ -7,7 +7,7 @@ banner: "![[offline🏡/unordered/_open__unique_wallpaper_art_4k_by_ventulart_dg
 obsidianEditingMode: live
 obsidianUIMode: preview
 ---
-- [[📩Inbox]]
+- [[inbox]]
 - [[personal-calendar]]
 - [[tactical-iteration]]
 - [[high-level-each-day]]
@@ -123,8 +123,8 @@ obsidianUIMode: preview
 		- [[information-services-security]]
 	- [[crimes-fixations]]
 	- [[reputation]]
-- [[🧠reflection-on-life]]
-	- [[📝diary]] 
+- [[reflection-on-life]]
+	- [[diary]] 
 	- [[перемоги]]
 - [[projects]]
 	- [[🏠дім]]
