@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Ultra Lobster",
+  "enabledCssSnippets": [
+    "inline-fields",
+    "tags"
+  ],
+  "accentColor": "#261d44",
+  "theme": "system",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}

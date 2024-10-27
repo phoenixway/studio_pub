@@ -1,0 +1,11 @@
+{
+  "delay": 500,
+  "key": "Shift",
+  "shortcuts": [
+    {
+      "command": "obsidian-better-command-palette:open-better-commmand-palette",
+      "key": "Shift",
+      "lastKeyUpTime": 0
+    }
+  ]
+}

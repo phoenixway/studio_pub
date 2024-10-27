@@ -1,0 +1,8 @@
+{
+  "ulu-theme-settings@@ulu-grad": false,
+  "ulu-theme-settings@@ulu-border": "none",
+  "ulu-theme-settings@@ulu-radius": "var(--radius-l)",
+  "ulu-theme-settings@@ulu-bar": false,
+  "ulu-theme-settings@@ulu-list-distinct": false,
+  "ulu-theme-settings@@ulu-colorfo-headings": true
+}
