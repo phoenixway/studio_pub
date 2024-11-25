@@ -123,7 +123,7 @@ obsidianUIMode: preview
 		- [[information-services-security]]
 	- [[crimes-fixations]]
 	- [[reputation]]
-- [[reflection-on-life]]
+- [[reflections]]
 	- [[diary]] 
 	- [[перемоги]]
 - [[projects]]
